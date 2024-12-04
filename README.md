@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to rapidly changing the `display` property of an HTML element.  The bug can lead to flickering or unexpected visual behavior in the browser. The solution provides a workaround to mitigate this issue.
